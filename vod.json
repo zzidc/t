@@ -25,6 +25,22 @@
         "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
     },
     {
+        "name": "39影视",
+        "api": "https://www.39kan.com/api.php/provide/vod/"
+    },
+    {
+        "name": "4K电影馆",
+        "api": "http://4kdyg.fun/api.php/provide/vod/"
+    },
+    {
+        "name": "艾旦影视",
+        "api": "https://lovedan.net/api.php/provide/vod/"
+    },
+    {
+        "name": "八戒资源",
+        "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+    },
+    {
         "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
         "name": "新浪"
     },
